@@ -1,5 +1,6 @@
 # ejercicio-markdown
 esta es una computadora  que tiene una basae de datos y le damos ordenes para realizar un pedido de delivery online aqui mostramos los pasos que ejeutaria la computadora.
+##contexto
 1. inicio
 2. pedir pedido
 3. mostrar lista de comida y restaurantes
@@ -8,4 +9,5 @@ esta es una computadora  que tiene una basae de datos y le damos ordenes para re
 *5.1 no, regresa al paso 3
 6. resumen de pedido
 7. fin
+##imagen
 ![imagen diagrama de flujo](http://i68.tinypic.com/14ln6ur.jpg)
